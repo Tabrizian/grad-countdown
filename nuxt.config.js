@@ -23,9 +23,6 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  modules: [
-          '@nuxtjs/font-awesome',
-  ],
   loading: { color: '#3B8070' },
   /*
   ** Build configuration
