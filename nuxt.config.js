@@ -23,6 +23,9 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
+  router: {
+	  base: '/grad-countdown/'
+  },
   loading: { color: '#3B8070' },
   /*
   ** Build configuration
