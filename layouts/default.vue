@@ -2,7 +2,7 @@
   <v-app dark>
     <nuxt/>
     <v-footer :fixed="fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&nbsp; &copy; {{ new Date().getFullYear() }} Iman Tabrizian</span>
     </v-footer>
   </v-app>
 </template>
